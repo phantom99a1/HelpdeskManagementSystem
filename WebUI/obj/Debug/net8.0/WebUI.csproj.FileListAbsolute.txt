@@ -144,3 +144,4 @@ D:\Helpdesk Management System\WebUI\obj\Debug\net8.0\refint\WebUI.dll
 D:\Helpdesk Management System\WebUI\obj\Debug\net8.0\WebUI.pdb
 D:\Helpdesk Management System\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
 D:\Helpdesk Management System\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+D:\Helpdesk Management System\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json
