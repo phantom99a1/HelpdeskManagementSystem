@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "http": {
+    "WebUI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
