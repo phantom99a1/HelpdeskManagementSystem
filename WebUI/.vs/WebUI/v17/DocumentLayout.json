@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Helpdesk Management System\\WebUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29D83425-2247-4F90-BBBE-7164CA8CC9AC}|WebUI.csproj|d:\\helpdesk management system\\webui\\data\\migrations\\20250301170044_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D83425-2247-4F90-BBBE-7164CA8CC9AC}|WebUI.csproj|solutionrelative:data\\migrations\\20250301170044_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29D83425-2247-4F90-BBBE-7164CA8CC9AC}|WebUI.csproj|d:\\helpdesk management system\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29D83425-2247-4F90-BBBE-7164CA8CC9AC}|WebUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -83,25 +79,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250301170044_InitialMigration.cs",
-              "DocumentMoniker": "D:\\Helpdesk Management System\\WebUI\\Data\\Migrations\\20250301170044_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20250301170044_InitialMigration.cs",
-              "ToolTip": "D:\\Helpdesk Management System\\WebUI\\Data\\Migrations\\20250301170044_InitialMigration.cs",
-              "RelativeToolTip": "Data\\Migrations\\20250301170044_InitialMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T17:00:44.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Helpdesk Management System\\WebUI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Helpdesk Management System\\WebUI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T16:52:03.975Z",
               "EditorCaption": ""
